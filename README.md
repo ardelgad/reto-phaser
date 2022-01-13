@@ -1,6 +1,6 @@
 # Reto Phaser 3
 
-Os han contratado a tí y a tu equipo para modificar un juego creado con la biblioteca Phaser3 de JavaScript
+Os han contratado a tí y a tu equipo para modificar un juego creado con la biblioteca [Phaser3](https://phaser.io/) de JavaScript
 
 Teneis acceso al código a través de este [enlace](https://labs.phaser.io/edit.html?src=src/games/firstgame/part9.js&v=3.55.2)
 Cuando le daís al botón RUN CODE; el juego se ejecuta a la derecha.
