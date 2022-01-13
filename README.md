@@ -26,10 +26,12 @@ averigua como hacer que el personaje se pueda mover
 también a izquierda y derecha con las letras A y D; 
 respectivamente.
 
-<video width="90%" height="90%" controls autoplay><source src="https://oscarm.tinytake.com/df/11ef5b5/thumbnail?type=attachments&version_no=0&file_version_no=0&thumbnail_size=preview" type="video/mp4">
+[Vídeo funcionalidades deseadas](https://oscarm.tinytake.com/msc/NjQwMTA0MF8xODgwNjE5Nw)
 
 ## Motivación
 
 En vuestro desarrollo profesional os vaís a tener que entender y trabajar con herramientas con poco margen de tiempo. Es necesario coger soltura en detectar estructura de datos conocidos, nombres de funciones y variables sugerentes; o saber explorar la documentación de una biblioteca para poder llevar a cabo el trabajo.
 
 ¡Buena Suerte!
+
+![phaser](https://phaser.io/images/img.png)
