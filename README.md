@@ -35,3 +35,6 @@ En vuestro desarrollo profesional os vaís a tener que entender y trabajar con h
 ¡Buena Suerte!
 
 ![phaser](https://phaser.io/images/img.png)
+
+## Solución
+https://pastebin.com/raw/iVehrXrR
